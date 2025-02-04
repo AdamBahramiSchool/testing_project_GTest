@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test_runner.dir/test/calculator_test.cpp.o CMakeFiles/test_runner.dir/src/calculator.cpp.o -o test_runner  -Wl,-rpath,/home/afb2/miniconda3/lib -lpthread /home/afb2/miniconda3/lib/libgtest_main.so.1.11.0 /home/afb2/miniconda3/lib/libgtest.so.1.11.0 

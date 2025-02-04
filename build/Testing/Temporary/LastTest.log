@@ -1,0 +1,39 @@
+Start testing: Feb 03 21:22 PST
+----------------------------------------------------------
+1/1 Testing: CalculatorTests
+1/1 Test: CalculatorTests
+Command: "/home/afb2/c++_prep/testing_project/build/test_runner"
+Directory: /home/afb2/c++_prep/testing_project/build
+"CalculatorTests" start time: Feb 03 21:22 PST
+Output:
+----------------------------------------------------------
+Running main() from /croot/yaml-cpp-split_1714510678659/work/test/gtest-1.11.0/googletest/src/gtest_main.cc
+[==========] Running 6 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 6 tests from CalculatorTest
+[ RUN      ] CalculatorTest.AddTest
+[       OK ] CalculatorTest.AddTest (0 ms)
+[ RUN      ] CalculatorTest.SubtractTest
+[       OK ] CalculatorTest.SubtractTest (0 ms)
+[ RUN      ] CalculatorTest.AddEdgeCases
+[       OK ] CalculatorTest.AddEdgeCases (0 ms)
+[ RUN      ] CalculatorTest.SubtractEdgeCases
+[       OK ] CalculatorTest.SubtractEdgeCases (0 ms)
+[ RUN      ] CalculatorTest.AddOverflow
+[       OK ] CalculatorTest.AddOverflow (0 ms)
+[ RUN      ] CalculatorTest.SubtractOverflow
+[       OK ] CalculatorTest.SubtractOverflow (0 ms)
+[----------] 6 tests from CalculatorTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 6 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 6 tests.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"CalculatorTests" end time: Feb 03 21:22 PST
+"CalculatorTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 03 21:22 PST

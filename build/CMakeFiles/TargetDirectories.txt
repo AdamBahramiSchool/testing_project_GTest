@@ -1,0 +1,5 @@
+/home/afb2/c++_prep/testing_project/build/CMakeFiles/testing_project.dir
+/home/afb2/c++_prep/testing_project/build/CMakeFiles/test_runner.dir
+/home/afb2/c++_prep/testing_project/build/CMakeFiles/test.dir
+/home/afb2/c++_prep/testing_project/build/CMakeFiles/edit_cache.dir
+/home/afb2/c++_prep/testing_project/build/CMakeFiles/rebuild_cache.dir
